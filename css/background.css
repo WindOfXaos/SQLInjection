@@ -1,9 +1,9 @@
-html, body {
+body {
     height:100%;
 }
 
 body{
-    background-image: url("../imgs/back.jpg");
+    background-image: url("../imgs/back.jfif");
     background-size: cover;
     background-attachment: fixed;
 }

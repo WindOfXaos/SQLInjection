@@ -10,14 +10,14 @@
 </head>
 
 <body>
-    <div class="row-cols-3 h-100" style="display: grid; place-items:center;">
+    <div class="row-cols-3 h-100" style="display: grid; place-items:center;margin-top:300px;">
         <form method="GET">
             <div class="mb-3">
-                <label for="exampleInputaccountid1" class="form-label">Username</label>
+                <label for="exampleInputaccountid1" class="form-label" style="color: #fff;">Username</label>
                 <input type="text" class="form-control" id="exampleInputaccountid1" name="accid">
             </div>
             <div class="mb-3">
-                <label for="exampleInputPassword1" class="form-label">Password</label>
+                <label for="exampleInputPassword1" class="form-label" style="color: #fff;">Password</label>
                 <input type="password" class="form-control" id="exampleInputPassword1" name="password">
             </div>
             <button type="submit" class="btn btn-dark" name="submit">Submit</button>
